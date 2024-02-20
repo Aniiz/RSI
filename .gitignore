@@ -1,0 +1,21 @@
+# Arquivos temporários
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Diretório de build
+/build
+
+# Módulos Node.js
+/node_modules
+
+# Arquivos de configuração específicos do ambiente
+.env
+
+# Dependências específicas do sistema (por exemplo, para o Windows)
+.DS_Store
+Thumbs.db
+
+# Outros arquivos e diretórios específicos da sua aplicação
+# Adicione aqui quaisquer arquivos ou diretórios adicionais que deseja ignorar
